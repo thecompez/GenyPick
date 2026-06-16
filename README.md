@@ -2,6 +2,8 @@
 
 GenyPick is a production-ready Farcaster Mini App for World Cup 2026 Top 4 predictions powered by GENY on Base.
 
+<img width="1536" height="1024" alt="feed-image" src="https://github.com/user-attachments/assets/c16d2752-98c4-438e-9b9f-e38ba65a0c70" />
+
 Users enter the pool by paying GENY, choose the final Top 4 teams in exact order, and appear on a leaderboard. Before submissions are locked, users can revise their card by making another paid attempt. Only the latest active card counts for scoring and rewards; previous cards remain in history, are invalidated, and are not refunded or token-burned.
 
 Each card costs exactly 256 GENY, with a maximum of 32 attempts per wallet. All paid cards increase `totalPool`. After official results are set, 75% of the collected GENY pool is reserved for exact Top 4 winners, split equally. The remaining 25% goes to treasury/ecosystem.
